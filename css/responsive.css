@@ -1,0 +1,68 @@
+@media(max-width:575px) {
+    .z {
+        text-align: center;
+    }
+}
+
+@media(max-width:1199px) {
+    .searcharea form input {
+        width: 87%;
+    }
+    .footbox input{
+        width: 80%;
+    }
+}
+
+@media(max-width:767px){
+    .logoarea {
+        text-align: center;
+    }
+    .logoarea img{
+        float: none;
+    }
+}
+
+@media(min-width:1199px){
+    .logoarea h1{
+        font-size: 24px;
+    }
+    .logoarea h3{
+        margin-left: 77px;
+    }
+}
+
+@media(max-width:1199px){
+    .logoarea h1{
+        font-size: 19px;
+    }
+
+}
+
+@media(max-width:767px){
+    .logoarea h1{
+        font-size: 24px;
+    }
+        .mainmenuarea ul li a {
+        padding: 10px 9px;
+    }
+}
+
+@media(max-width:991px){
+    .zz{
+        margin-bottom: 45px;
+    }
+    .footbox input{
+        width: 72%;
+    }
+}
+@media(min-width:992px) and (max-width:1199px){
+    .zz{
+        margin-bottom: -15px;
+    }
+}
+@media(max-width:767px){
+    .footbox input{
+        width: 61%;
+    }
+}
+
